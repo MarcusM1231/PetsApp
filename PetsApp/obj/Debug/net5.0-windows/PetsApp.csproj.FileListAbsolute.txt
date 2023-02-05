@@ -1,6 +1,3 @@
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.csproj.AssemblyReference.cache
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MainWindow.g.cs
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetStore.g.cs
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\App.g.cs
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp_MarkupCompile.cache
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp_MarkupCompile.lref
@@ -11,8 +8,6 @@ C:\Personal Apps\PetsApp\PetsApp\bin\Debug\net5.0-windows\PetsApp.runtimeconfig.
 C:\Personal Apps\PetsApp\PetsApp\bin\Debug\net5.0-windows\PetsApp.dll
 C:\Personal Apps\PetsApp\PetsApp\bin\Debug\net5.0-windows\ref\PetsApp.dll
 C:\Personal Apps\PetsApp\PetsApp\bin\Debug\net5.0-windows\PetsApp.pdb
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MainWindow.baml
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetStore.baml
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.g.resources
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.AssemblyInfoInputs.cache
@@ -22,7 +17,12 @@ C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.dll
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\ref\PetsApp.dll
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.pdb
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.genruntimeconfig.cache
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MyPets.g.cs
-C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MyPets.baml
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetDetails.g.cs
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetStore.g.cs
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\MyPets.baml
 C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetDetails.baml
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetStore.baml
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\PetsApp.csproj.AssemblyReference.cache

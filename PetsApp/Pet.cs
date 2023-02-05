@@ -225,7 +225,7 @@ namespace PetsApp
             happiness = 2;
             maxHappiness = 5;
             hunger = 2;
-            maxHunger = 5;
+            maxHunger = 6;
             petImage = "🌱";
             timer.Interval = TimeSpan.FromMinutes(1);
 
@@ -299,7 +299,7 @@ namespace PetsApp
             happiness = 2;
             maxHappiness = 5;
             hunger = 2;
-            maxHunger = 6;
+            maxHunger = 5;
             petImage = "🐟";
             timer.Interval = TimeSpan.FromMinutes(3);
 
