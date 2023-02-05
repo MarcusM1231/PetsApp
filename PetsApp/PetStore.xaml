@@ -1,0 +1,41 @@
+﻿<Window x:Class="PetsApp.PetStore"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PetsApp"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="PetStore" Height="450" Width="800">
+    <Grid>
+
+        <Label FontSize="30" Margin="224,0,184,363">Welcome to the Pet Store</Label>
+
+        <!-- Cat -->
+        <Button Click="GetCat_Click" FontSize="50" x:Name="GetCat" Margin="9,110,611,235">🐈</Button>
+        <Label HorizontalAlignment="Left" FontSize="20" Margin="79,197,0,183">Cat</Label>
+
+        <!--Plant -->
+        <Button Click="GetPlant_Click"  FontSize="50" x:Name="GetPlant" Margin="208,110,400,235">🌱</Button>
+        <Label HorizontalAlignment="Left" FontSize="20" Margin="277,197,0,183">Plant</Label>
+
+        <!-- Dog -->
+        <Button Click="GetDog_Click" FontSize="50" x:Name="GetDog" Margin="420,110,198,235">🐕</Button>
+        <Label HorizontalAlignment="Left" FontSize="20" Margin="487,198,0,170">Dog</Label>
+
+        <!--Fish -->
+        <Button Click="GetFish_Click"  FontSize="50" x:Name="GetFish" Margin="614,110,10,235">🐟</Button>
+        <Label FontSize="20" HorizontalAlignment="Left" Margin="680,198,0,182">Fish</Label>
+
+        <!-- Naming Texbtbox-->
+        <Label Margin="169,300,469,0" VerticalAlignment="Top">Name:</Label>
+        <TextBox x:Name="PetName" Background="LightGray" VerticalAlignment="Top" TextAlignment="Center" Margin="242,304,242,0" ></TextBox>
+
+        <!--Button to go back to the home screen -->
+        <Button x:Name="BackButton" Click="BackButton_Click" Margin="10,16,675,363">Home</Button>
+
+        <Label x:Name="CountLabel" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="Red" Margin="0,262,0,0"></Label>
+
+    </Grid>
+</Window>

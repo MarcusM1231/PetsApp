@@ -1,0 +1,20 @@
+﻿PetsApp
+
+
+winexe
+C#
+.cs
+C:\Personal Apps\PetsApp\PetsApp\obj\Debug\net5.0-windows\
+PetsApp
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Personal Apps\PetsApp\PetsApp\App.xaml
+41538930146
+
+82121945617
+193-1891726104
+MainWindow.xaml;MyPets.xaml;PetDetails.xaml;PetStore.xaml;
+
+False
+

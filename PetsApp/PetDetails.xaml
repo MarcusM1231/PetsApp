@@ -1,0 +1,47 @@
+﻿<Window x:Class="PetsApp.PetDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PetsApp"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="PetDetails" Height="450" Width="800">
+    <Grid>
+        <!-- Pet Name -->
+        <Label FontSize="30" x:Name="PetName" Margin="0,0,113,362">Pet Name</Label>
+
+        <!-- Pet Happiness -->
+        <Label Margin="10,77,618,290">Happiness Level:</Label>
+        <Label x:Name="PetHappiness" Margin="113,77,552,294">10</Label>
+
+        <!-- Feed Button -->
+        <Button x:Name="FeedPet" Click="FeedPet_Click" Margin="75,332,514,37">Feed</Button>
+
+        <!-- Interact Button-->
+        <Button x:Name="InteractPet" Click="InteractPet_Click" Margin="536,332,53,37">Interact</Button>
+
+        <!-- Pet Hunger -->
+        <Label Margin="10,111,581,232">Hunger Level:</Label>
+        <Label x:Name="PetHunger" Margin="113,111,514,266">10</Label>
+
+        <!-- Food Options -->
+        <Label Margin="10,173,540,202">Food Options</Label>
+        <ComboBox x:Name="FoodSelect" Margin="99,168,500,209"></ComboBox>
+
+        <!-- Interaction Options -->
+        <Label Margin="10,258,540,117">Interaction Options</Label>
+        <ComboBox x:Name="InteractionSelect"  Margin="142,247,456,130"></ComboBox>
+
+        <!-- Pet Image -->
+        <Label x:Name="PetImage" FontSize="80" Margin="490,91,-82,130">🐈</Label>
+
+        <!-- Remove Pet -->
+        <Button x:Name="RemovePet" Click="RemovePet_Click" Margin="676,10,27,371">Remove Pet</Button>
+
+        <!-- Return to My Pets -->
+        <Button x:Name="MyPets" Click="MyPets_Click"  Margin="554,10,149,371">My Pets</Button>
+        
+    </Grid>
+</Window>
