@@ -1,4 +1,4 @@
-# PetsApp
+# Pet App
 Vist a pet store and select between four diffrent pets (dog, cat, plant, and fish) to bring back to your house to take care of. 
 
 Once you get a pet you will be able to see a list of them in your home which you can click on one to view more details about them.
