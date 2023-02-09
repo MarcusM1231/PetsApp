@@ -108,7 +108,7 @@ namespace PetsApp
             {
                 switch (action)
                 {
-                    case "Rub belly":
+                    case "Rub Belly":
                         hunger += 1;
                         happiness += 1;
                         break;
