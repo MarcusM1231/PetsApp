@@ -5,4 +5,4 @@ Once you get a pet you will be able to see a list of them in your home which you
 
 Once you own a pet make sure to interact and feed it in order to keep your pet both happy and fed. Beware! If your pet is not fed in a certain about of time their hunger and happiness level will be affected! I hope you enjoy the project!
 
-More updates coming soon!!
+(Project for an Interview)
